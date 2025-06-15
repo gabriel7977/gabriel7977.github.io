@@ -1,0 +1,12 @@
+title: Gabriel Victor Olivares Guillen] - Data Scientist & Economist
+description: Econometric Analysis | Policy Evaluation | Financial Modeling
+theme: minima
+url: https://gabriel7977.github.io
+
+author:
+  name: [Gabriel V Olivares Guillen]
+  email: gog@gea.structura.com.mx
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
